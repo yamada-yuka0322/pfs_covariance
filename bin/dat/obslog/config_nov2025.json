@@ -1,0 +1,11 @@
+{
+  "run_configs": {
+    "nov2025": {
+      "folder": "obslog_nov2025",
+      "sequence_prefix": "SSP_CO_",
+      "dropna_eet_r": true,
+      "time_zone": "US/Hawaii"
+    }
+  },
+  "combined_date_visit_runs": {}
+}
